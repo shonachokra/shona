@@ -4,9 +4,9 @@
         
         #############################################
         #                                           #
-        #    Facebook BruteForce, by Kashi Gangster        #
-        #    Youtube:    Gangster Teaches and Technical zone   #
-        #   Whtsapp Num +923062045786                                  #
+        #    Facebook BruteForce, by shona Gangster        #
+        #    Youtube:    #
+        #   Whtsapp Num +    #
         #############################################
 
 
@@ -57,9 +57,9 @@ logo = """
 \033[1;97m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   Shona King
 \033[1;97m╚╝ ╚═╩═╩═╩═╝═ ╚╝╚═╩═╝ 
 \033[1;93m♡╰──────────•◈•──────────╯♡\033[1;96mShonachokRa\033[1;95m♡╰──────────•◈•──────────╯♡"""
-print " \x1b[1;93m=Whtsapp Num +923062045786="
+print " \x1b[1;93m=Whtsapp Num +="
 CorrectUsername = "Pak Power"
-CorrectPassword = "kashigangster"
+CorrectPassword = "shonagangster"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
